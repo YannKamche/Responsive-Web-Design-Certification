@@ -1,0 +1,1 @@
+This repository contains all the projects of the responsive Web design course
