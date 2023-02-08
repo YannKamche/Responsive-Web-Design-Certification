@@ -2,4 +2,4 @@
 Designing a web page centered on Cats and behaviors, using HTML
 
 ## Project 2: CAFE MENU
-Designing a cafe Menu web page using HTML and CSS
+Designing a Café  Menu web page using HTML and CSS
