@@ -1,5 +1,5 @@
 ## Project 1: CAT PHOTO APP
-Consists of designing a web page that talks about Cats, using HTML
+Designing a web page centered on Cats and behaviors, using HTML
 
 ## Project 2: CAFE MENU
 Designing a cafe Menu web page using HTML and CSS
