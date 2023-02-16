@@ -12,3 +12,6 @@ Designing a Registration and Survey form using HTML and CSS.
 
 ## Project 5: RHOTKO PAINTING
 Designing a Rhotko Painting using HTML and CSS
+
+## Project 6: NUTRITION LABEL
+Designing a Nutrition Label using HTML and CSS
