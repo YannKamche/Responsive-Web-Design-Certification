@@ -15,3 +15,6 @@ Designing a Rhotko Painting using HTML and CSS
 
 ## Project 6: NUTRITION LABEL
 Designing a Nutrition Label using HTML and CSS
+
+## Project 7: QUIZ
+Learning Accessibility by building a Quiz using HTML and CSS
