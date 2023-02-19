@@ -8,13 +8,16 @@ Designing a Café  Menu web page using HTML and CSS
 Designing a Color Marker using HTML and CSS
 
 ## Project 4: REGISTRATION FORM
-Designing a Registration and Survey form using HTML and CSS. 
+Designing a Registration form using HTML and CSS. 
 
-## Project 5: RHOTKO PAINTING
+## Project 5: SURVEY FORM (Certification Projects)
+Designing a Survey Form using HTML and CSS
+
+## Project 6: RHOTKO PAINTING
 Designing a Rhotko Painting using HTML and CSS
 
-## Project 6: NUTRITION LABEL
+## Project 7: NUTRITION LABEL
 Designing a Nutrition Label using HTML and CSS
 
-## Project 7: QUIZ
+## Project 8: QUIZ
 Learning Accessibility by building a Quiz using HTML and CSS
