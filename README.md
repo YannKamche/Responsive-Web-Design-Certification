@@ -21,3 +21,7 @@ Designing a Nutrition Label using HTML and CSS
 
 ## Project 8: QUIZ
 Learning Accessibility by building a Quiz using HTML and CSS
+
+## Project 9: TRIBUTE PAGE (Certification Projects)
+Designing a Tribute Page using HTML and CSS
+
