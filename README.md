@@ -31,3 +31,6 @@ Desiginig a Balance Sheet using HTML and CSS
 ## Project 11: PICASSO PAINTING
 Designing a Picasso Painting using HTML and CSS
 
+## Project 12: PIANO
+Designing a Piano using HTML and CSS
+
