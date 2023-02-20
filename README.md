@@ -25,3 +25,6 @@ Learning Accessibility by building a Quiz using HTML and CSS
 ## Project 9: TRIBUTE PAGE (Certification Projects)
 Designing a Tribute Page using HTML and CSS
 
+## Project 10: BALANCE SHEET
+Desiginig a Balance Sheet using HTML and CSS
+
