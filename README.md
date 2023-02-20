@@ -28,3 +28,6 @@ Designing a Tribute Page using HTML and CSS
 ## Project 10: BALANCE SHEET
 Desiginig a Balance Sheet using HTML and CSS
 
+## Project 11: PICASSO PAINTING
+Designing a Picasso Painting using HTML and CSS
+
