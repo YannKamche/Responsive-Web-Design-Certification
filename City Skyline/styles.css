@@ -304,7 +304,10 @@ body {
     --building-color3: #000;
     --building-color4: #000;
 
-    
+    --window-color1: #777;
+    --window-color2: #777;
+    --window-color3: #777;
+    --window-color4: #777;
   }
   .sky {
     background: radial-gradient(
