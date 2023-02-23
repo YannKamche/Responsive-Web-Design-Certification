@@ -36,3 +36,6 @@ Designing a Piano using HTML and CSS
 
 ## Project 13: TECHNICAL DOCUMENTATION PAGE (Certification Projects)
 Designing a Technical Documentation Page using HTML and CSS
+
+## Project 14: CITY SKYLINE
+Designing a City Skyline using HTML and CSS
