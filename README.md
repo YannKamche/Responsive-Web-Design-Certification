@@ -1,41 +1,47 @@
 ## Project 1: CAT PHOTO APP
-Designing a web page centered on Cats and behaviors, using HTML
+Learn HTML by building a Cat Photo App
 
 ## Project 2: CAFE MENU
-Designing a Café  Menu web page using HTML and CSS
+Learn basic CSS by building a Cafe Menu
 
 ## Project 3: COLOR MARKER
-Designing a Color Marker using HTML and CSS
+Learn CSS Colors by building a set of Colored Markers
 
 ## Project 4: REGISTRATION FORM
-Designing a Registration form using HTML and CSS. 
+Learn HTML forms by building a Registration Form
 
 ## Project 5: SURVEY FORM (Certification Projects)
-Designing a Survey Form using HTML and CSS
+Survey form to collect data from users
 
 ## Project 6: RHOTKO PAINTING
-Designing a Rhotko Painting using HTML and CSS
+Learn CSS box model by building a Rhotko Painting 
 
-## Project 7: NUTRITION LABEL
-Designing a Nutrition Label using HTML and CSS
+## Project 7: PHOTO GALLERY
+Learn CSS flexbox by building a Photo Gallery
 
-## Project 8: QUIZ
-Learning Accessibility by building a Quiz using HTML and CSS
+## Project 8: NUTRITION LABEL
+Learn Typography by building a Nutrition Label
 
-## Project 9: TRIBUTE PAGE (Certification Projects)
-Designing a Tribute Page using HTML and CSS
+## Project 9: QUIZ
+Learn Accessibility by building a Quiz
 
-## Project 10: BALANCE SHEET
-Desiginig a Balance Sheet using HTML and CSS
+## Project 10: TRIBUTE PAGE (Certification Projects)
+Build a Tribute Page for a subject of your choosing
 
-## Project 11: PICASSO PAINTING
-Designing a Picasso Painting using HTML and CSS
+## Project 11: BALANCE SHEET
+Learn more about CSS Pseudo Selectors by building a Balance Sheet
 
-## Project 12: PIANO
-Designing a Piano using HTML and CSS
+## Project 12: PICASSO PAINTING
+Learn Intermediate CSS by building a Picasso Painting
 
-## Project 13: TECHNICAL DOCUMENTATION PAGE (Certification Projects)
-Designing a Technical Documentation Page using HTML and CSS
+## Project 13: PIANO
+Learn Responsive Web Design by building a Piano
 
-## Project 14: CITY SKYLINE
-Designing a City Skyline using HTML and CSS
+## Project 14: TECHNICAL DOCUMENTATION PAGE (Certification Projects)
+Build a Technical Documentation page to serve as instruction or reference for a topic
+
+## Project 15: CITY SKYLINE
+Learn CSS Variables by building a City Skyline
+
+## Project 16: MAGAZINE
+Learn CSS Grid by building a Magazine
