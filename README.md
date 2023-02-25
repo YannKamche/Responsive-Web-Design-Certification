@@ -48,3 +48,6 @@ Learn CSS Grid by building a Magazine
 
 ## Project 17: PRODUCT LANDING PAGE
 Build a Product Landing Page to market your product
+
+## Project 18: FERRIS WHEEL
+Learn CSS Animation building a Ferris Wheel
