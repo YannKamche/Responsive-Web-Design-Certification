@@ -51,3 +51,6 @@ Build a Product Landing Page to market your product
 
 ## Project 18: FERRIS WHEEL
 Learn CSS Animation building a Ferris Wheel
+
+## Project 19: PENGUIN
+Learn CSS Transform by building a Penguin
